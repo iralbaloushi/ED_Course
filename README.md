@@ -1,2 +1,2 @@
 # ED_Course
-This Repo is for Enterprise Class Projects
+This Repo is for Enterprise Development Class Projects
